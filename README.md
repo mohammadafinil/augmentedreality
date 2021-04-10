@@ -1,2 +1,2 @@
-# augmentedreality
-Untuk Skripsi
+# AR.js-examples
+Examples using the AR.js library
